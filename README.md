@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @NotBotAtAll
-- 👀 I’m interested in mastering the art of intergalactic pizza delivery and secret handshake algorithms.
-- 🌱 I’m currently learning how to make my shadow do the cha-cha.
-- 💞️ I’m looking to collaborate on projects like decoding the hidden messages in my cereal box.
-- 📫 How to reach me: Send a carrier pigeon or a smoke signal—bonus points for Morse code!
-- ⚡ Fun fact: I speak fluent emoji.
-<!---
-NotBotAtAll/NotBotAtAll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @NikosKoumbakis.
+- 👀 I’m interested in large systems, small buttons, and what happens when you press them.
+- 🧭 I have a fondness for improbable plans that somehow work.
+- 🌱 I’m currently learning how to herd abstractions without alarming them.
+- 🛠️ I enjoy turning vague ideas into something that almost exists.
+- 🧠 I spend a lot of time thinking about thinking, and occasionally writing it down.
+- 💞️ I’m looking to collaborate on projects that begin with “this is a terrible idea” and end with everyone pretending this was the plan.
+- 🪐 I believe everything is simple once you understand it, which may take some time.
+- 📫 How to reach me: leave a note in the margins, or shout gently into the void.
+- 🧪 Known to run experiments on curiosity and see what ships.
+- ⚡ Fun fact: I speak fluent emoji, plain English, and whatever that was just now.
