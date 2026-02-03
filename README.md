@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to herd abstractions without alarming them.
 - 🛠️ I enjoy turning vague ideas into something that almost exists.
 - 🧠 I spend a lot of time thinking about thinking, and occasionally writing it down.
-- 💞️ I’m looking to collaborate on projects that begin with “this is a terrible idea” and end with everyone pretending this was the plan.
+- 💞️ I enjoy projects that start as terrible ideas and end with everyone pretending it was the plan.
 - 🪐 I believe everything is simple once you understand it, which may take some time.
 - 📫 How to reach me: leave a note in the margins, or shout gently into the void.
 - 🧪 Known to run experiments on curiosity and see what ships.
